@@ -1,9 +1,12 @@
 # Customer-Review-Analysis-For-Leading-woman-clothing-E-Commerce-Company
-One of the leading women's clothing e-commerce companies would like to analyze the customer’s behavior by analyzing customer’s demographics and reviews submitted on the website.**
+One of the leading women's clothing e-commerce companies would like to analyze the customer’s behavior by analyzing customer’s demographics and reviews submitted on the website.
+
 **Overview**
 
 Business Objectives:
-Our main objectives are as follows.
+
+Our main objectives are as follows:-
+
 
 a. Performing exploratory analysis of the data to understand the patterns
 
